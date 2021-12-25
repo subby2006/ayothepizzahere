@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fab402cc.css",
+    "main.js": "/static/js/main.6ea21395.js",
+    "static/js/787.feb7aac9.chunk.js": "/static/js/787.feb7aac9.chunk.js",
+    "static/media/tik-tok-shocked.gif": "/static/media/tik-tok-shocked.a931c00e48aa545954b3.gif",
+    "static/media/omori-omori-basil.gif": "/static/media/omori-omori-basil.42230bd2239275dd1ece.gif",
+    "index.html": "/index.html",
+    "main.fab402cc.css.map": "/static/css/main.fab402cc.css.map",
+    "main.6ea21395.js.map": "/static/js/main.6ea21395.js.map",
+    "787.feb7aac9.chunk.js.map": "/static/js/787.feb7aac9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab402cc.css",
+    "static/js/main.6ea21395.js"
+  ]
+}
